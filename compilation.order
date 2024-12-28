@@ -1,0 +1,13 @@
+.\src\register_file.v
+.\src\mux4-1.v
+.\src\mux2-1.v
+.\src\Data_memory.v
+.\src\ALU.v
+.\src\Adder_16bit.v
+.\src\EXT.v
+.\src\EXT2.v
+.\src\instruction_mem.v
+.\src\controlUnit.v
+.\src\constants.v
+.\src\clockGenerator.v
+.\src\PCmodule.v

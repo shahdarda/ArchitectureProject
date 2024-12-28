@@ -1,0 +1,94 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=register_file
+[Library]
+register_file=.\register_file\register_file.lib
+[$LibMap$]
+register_file=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+fileopenfolder=C:\Users\Shahd\Desktop\ArcProject\register_file\src
+[IMPLEMENTATION]
+UCF=
+[Files]
+/register_file.v=-1
+/mux4-1.v=-1
+/mux2-1.v=-1
+/Data_memory.v=-1
+/ALU.v=-1
+/Adder_16bit.v=-1
+/EXT.v=-1
+/EXT2.v=-1
+/instruction_mem.v=-1
+/controlUnit.v=-1
+/constants.v=-1
+/clockGenerator.v=-1
+/PCmodule.v=-1
+/ProcessorBD.bde=-1
+[Files.Data]
+.\src\register_file.v=Verilog Source Code
+.\src\mux4-1.v=Verilog Source Code
+.\src\mux2-1.v=Verilog Source Code
+.\src\Data_memory.v=Verilog Source Code
+.\src\ALU.v=Verilog Source Code
+.\src\Adder_16bit.v=Verilog Source Code
+.\src\EXT.v=Verilog Source Code
+.\src\EXT2.v=Verilog Source Code
+.\src\instruction_mem.v=Verilog Source Code
+.\src\controlUnit.v=Verilog Source Code
+.\src\constants.v=Verilog Source Code
+.\src\clockGenerator.v=Verilog Source Code
+.\src\PCmodule.v=Verilog Source Code
+.\src\ProcessorBD.bde=Block Diagram
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension0=alintws
+name1=Coverage Databases
+directory1=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension1=acdb
+name2=Dll Libraries
+directory2=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension2=dll
+name3=Event Lists
+directory3=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension3=lst
+name4=HTML Files
+directory4=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension4=htm;html
+name5=Log Files
+directory5=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=C:\Users\Shahd\Desktop\ArcProject\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension8=pdf
+name9=Profiler Databases
+directory9=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension9=tbp
+name10=Script Files
+directory10=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=C:\Users\Shahd\Desktop\ArcProject\register_file\
+extension11=asdb;awc;asdbc;asdbe

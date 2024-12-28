@@ -1,0 +1,15 @@
+i<>.\src\register_file.v
+i<>.\src\mux4-1.v
+i<>.\src\mux2-1.v
+i<>.\src\Data_memory.v
+i<>.\src\ALU.v
+i<>.\src\Adder_16bit.v
+i<>.\src\EXT.v
+i<>.\src\EXT2.v
+i<>.\src\instruction_mem.v
+i<>.\src\controlUnit.v
+i<>.\src\constants.v
+i<>.\src\clockGenerator.v
+i<>.\src\PCmodule.v
+i<>.\src\ProcessorBD.bde
+i<>.\src\mux2to1_testbench.v

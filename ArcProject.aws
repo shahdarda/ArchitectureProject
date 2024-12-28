@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+register_file=.\register_file\register_file.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+register_file=1
+[Settings]
+Active=register_file
